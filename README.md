@@ -1,1 +1,1 @@
-# EE559
+# machine learning I: Supervised Methods
